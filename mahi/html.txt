@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<body>
+<center>
+<h3>Add data</h3>
+<form action="insert.php" method="POST">
+name:<input type="text" name="name" value="" placeholder="Enter name"><br></br>
+contact:<input type="text" name="contact" value="" placeholder="Enter contact"><br></br>
+email:<input type="text" name="email" value="" placeholder="Enter email"><br></br>
+addmitted:<input type="text" name="addmitted" value="" placeholder="Enter yes or no"><br></br>
+<button><input type="submit" name="submit" value="submit"></button>
+</center>
+</body>
+</html>
